@@ -1,9 +1,20 @@
 ![BattleEditors](battle_editors.png)
 The logo created by @blacktails2
 
-Editors King Battle Editors
+"Editors King Battle Editors"
 
-Index:
+# Abstract:
+
+In the editor calendar 2XXX, The ancient family "Program-mer" use the text
+editors as the weapons.  Vim, Emacs, Sublime Text etc.
+It is the power to choose the text editor.
+In the later, the automated programming technology desctorys "Program-mer".
+In the end, the text editor will be dying...  It was thought.
+But the text editor is the sports now.
+This is the story of the boys and girls to learn the text editors.
+
+
+# Index:
 
 * Chapter 01: He is Dark Vim Master
 * Chapter 02: The rival of the Vim
