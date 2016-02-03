@@ -16,6 +16,36 @@ But the text editor is the sports now.
 This is the story of the boys and girls to learn the text editors.
 
 
+# Characters:
+
+* Edward Awl
+
+The main character.
+He uses vi.
+
+* Dark Vim Master
+
+The main character.
+He uses Vim and neo-Vim.
+He is the other personality of Edward.
+
+* Lime Sabiena
+
+She uses Sublime Text.
+
+* Macs Endo
+
+He uses Emacs.
+
+* Sed Waker
+
+He uses AWK and Sed.
+
+* Natalia Bin
+
+She uses Binary editor.
+
+
 # Index:
 
 * Chapter 01: He is Dark Vim Master
